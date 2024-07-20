@@ -1,7 +1,4 @@
-Name: Dharesh Polishi
-id:
-domain:full stack web development
-Mentor:Sravani Gouni
+
 description: Introducing To-Do App, your ultimate productivity partner designed to simplify your daily tasks and supercharge your efficiency. To-Do App isn't just another run-of-the-mill task manager; it's a comprehensive solution that empowers you to take control of your schedule, prioritize your activities, and accomplish more in less time.
 
 With To-Do App, managing your tasks has never been easier. You can quickly jot down your tasks, whether it's completing assignments, scheduling appointments, or even just remembering to water your plants. The intuitive interface allows you to add, edit, and rearrange tasks effortlessly, ensuring that your to-do list reflects your current priorities.
